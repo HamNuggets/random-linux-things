@@ -1,0 +1,7 @@
+{
+read -p "Set username: " REPLY;
+echo ADDED USER ${REPLY};
+echo PASSWORD ${REPLY};
+echo "${REPLY} ALL=(ALL) ALL WRITTEN TO SUDOERS"
+echo ${REPLY} LIKES THEIR YUMMY DOTS!
+}
