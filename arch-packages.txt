@@ -1,7 +1,6 @@
 xorg
 networkmanager
 neofetch
-tree
 xfce4
 lightdm
 nano
